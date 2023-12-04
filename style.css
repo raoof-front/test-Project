@@ -1,13 +1,4 @@
 body{
     display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
-/* test codes */
-
-form {
-    display: flex;
-    justify-self: unset;
-    align-items: baseline;
-}
