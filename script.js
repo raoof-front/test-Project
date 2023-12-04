@@ -6,3 +6,6 @@ if (isLogin) {
     return false
 }
 
+const setComment = (comment) => {
+    return comment.body;
+}
