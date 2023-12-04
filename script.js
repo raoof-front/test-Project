@@ -5,3 +5,8 @@ if (isLogin) {
 }else{
     return false
 }
+
+const test = () => {
+    console.log("test func");
+}
+
