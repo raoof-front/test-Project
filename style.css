@@ -11,3 +11,7 @@ form {
     justify-self: unset;
     align-items: baseline;
 }
+h3{
+    color: burlywood;
+    text-align: center;
+}
