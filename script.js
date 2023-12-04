@@ -6,10 +6,3 @@ if (isLogin) {
     return false
 }
 
-const test = () => {
-    console.log("test func");
-}
-
-const setTickets = () => {
-    return true
-}
