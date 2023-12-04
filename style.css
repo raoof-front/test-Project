@@ -11,3 +11,11 @@ h2{
     color: bisque;
     background-color: blanchedalmond;
 }
+
+/* test codes */
+
+form {
+    display: flex;
+    justify-self: unset;
+    align-items: baseline;
+}
